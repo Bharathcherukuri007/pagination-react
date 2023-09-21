@@ -1,0 +1,21 @@
+.button{
+    padding: 10px;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #007bff;
+    color: #007bff;
+    background-color: white;
+}
+
+.button:active{
+    color: white;
+    background-color: #007bff;
+}
+.selected{
+    padding: 10px;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #007bff;
+    color: white;
+    background-color: #007bff;
+}
